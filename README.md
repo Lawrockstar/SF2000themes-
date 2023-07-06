@@ -20,7 +20,9 @@ só não colarem os arquivos pagefile.sys e swapfile.sys
 ![Mobile 1](https://user-images.githubusercontent.com/138077464/251557070-484270e5-213d-4eab-88c4-b715c0a07b7c.png) 
 ![Mobile 1](https://user-images.githubusercontent.com/138077464/251557077-934baf49-9d43-42d7-80ed-d51aa3070a20.png) 
 ![Mobile 1](https://user-images.githubusercontent.com/138077464/251557058-073b665d-24e4-4c31-82cf-d92cd23f03ee.png) 
+![Mobile 1](https://user-images.githubusercontent.com/138077464/251557081-3f2e2d79-773d-44d0-a182-83246d62a72e.png).
 
 # Theme SF2kBluePoison-
 ![Mobile 1](https://user-images.githubusercontent.com/138077464/251557842-37483f91-de8a-4968-92b6-ea0050664ad3.png) 
 ![Mobile 1](https://user-images.githubusercontent.com/138077464/251557846-5e968e8d-6866-491d-b79e-6ef85c34de28.png)
+![Mobile 1](https://user-images.githubusercontent.com/138077464/251579905-da4fdbf0-1493-4bb4-ba7b-5c70bdcacb53.png).
